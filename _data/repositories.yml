@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
+  - nabilbrice
   - alshedivat
 
 github_repos:
+  - nabilbrice/raytracer
+  - nabilbrice/bfield-autodiff
   - alshedivat/al-folio
   - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax

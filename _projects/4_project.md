@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Raytracer
+description: a general purpose raytracer
+img: assets/img/raytracer_img.jpg
 importance: 3
 category: fun
 ---

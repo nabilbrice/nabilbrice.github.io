@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a systematic analysis on the polarization from the surface emission of neutron stars with a multipolar magnetic field
+title: Polarization
+description: a systematic analysis on the polarization from neutron stars with a multipolar magnetic field
 img: assets/img/12.jpg
 importance: 1
 category: work

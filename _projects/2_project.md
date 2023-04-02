@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Beaming
+description: a study of beaming from super-Eddington accretion discs
 img: assets/img/3.jpg
 importance: 2
 category: work
