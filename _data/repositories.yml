@@ -1,12 +1,7 @@
 github_users:
   - nabilbrice
-  - alshedivat
 
 github_repos:
   - nabilbrice/raytracer
   - nabilbrice/bfield-autodiff
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+
