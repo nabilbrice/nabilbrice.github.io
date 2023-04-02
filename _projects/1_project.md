@@ -1,11 +1,13 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: a systematic analysis on the polarization from the surface emission of neutron stars with a multipolar magnetic field
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+
+# About
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -16,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: A systematic analysis on the polarization from the surface emission of neutron stars with a multipolar magnetic field
     img: /assets/img/12.jpg
     ---
 
