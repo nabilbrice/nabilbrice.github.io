@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: magnetar atmosphere code
+description: a re-write and update of legacy code, to be made open source
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

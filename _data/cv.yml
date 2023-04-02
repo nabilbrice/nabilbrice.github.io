@@ -13,20 +13,22 @@
   contents:
     - title: Ph.D., Astrophysics
       institution: University College London
-      year: ~2023
+      year: 2018 - 
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
+        - title: Supervisors
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Silvia Zane, (MSSL, UCL)
+            - Kinwah Wu (MSSL, UCL)
+            - Roberto Turolla (Dept. Physics and Astronomy, UNIPD)
     - title: Astrophysics MSc
       institution: University College London
       year: 2017-2018
       description:
         - Dissertation on General Harmonic Coordinates for Axially Symmetric, Stationary Spacetimes
-        - Supervisor: Prof. Rod Halburd (Dept. Mathematics, UCL)
+        - title: Supervisor
+          contents: Prof. Rod Halburd (Dept. Mathematics, UCL)
     - title: B.A. (Hons) Mathematics
       institution: Pembroke College, Cambridge
       year: 2014-2017
