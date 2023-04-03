@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 This is a placeholder biography. I am a theoretical astrophysics PhD student at MSSL. My research interests are in QED, neutron stars, accretion, high performance computing. I like writing software, hiking, and bouldering. 
 
-I would like to see more open source collaboration on code in high energy astrophysics.
+I would like to see more open source collaboration on code in science. I think it would be an amazing benefit to all of us. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

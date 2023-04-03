@@ -1,6 +1,6 @@
 ---
 layout: page
-title: magnetar atmosphere code
+title: magnetar atmospheres
 description: a re-write and update of legacy code, to be made open source
 img: assets/img/7.jpg
 redirect: https://unsplash.com

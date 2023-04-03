@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Raytracer
-description: a general purpose raytracer
+description: a physics based raytracer
 img: assets/img/raytracer_img.jpg
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Building a physics based raytracer to render images. It has useful applications in research too, e.g. constructing synthetic spectra.
+
+For those working in radiative transfer, it's a useful exercise to build one.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
